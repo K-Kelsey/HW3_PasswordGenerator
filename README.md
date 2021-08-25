@@ -3,7 +3,7 @@
 
 This is my random password generator that I completed for week 3's homework.
 
-Here is how to navigat it:
+Here is how to navigate it:
 >When the generate button is clicked, you will be prompted with a window asking how many characters you would like in your generated password.
 >Following that prompt will be a series of questions regarding what parameters you would like tied to your generated password.
 >You can confirm these options by either choosing "OK" for "Yes" or you can choose "Cancel" for "No"
@@ -27,9 +27,13 @@ this was a fairly brain numbing project at times. logic gets tangled, variables 
 ---
 
 *[Mike Dane](https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw) from YouTube.
+
 *[W3Schools](https://www.w3schools.com/cssref/pr_class_position.asp)
+
 *[TechnicalCafe](https://www.youtube.com/watch?v=9sT03jEwcaw&t=1006s) from YouTube.
+
 *[StackOverflow](https://stackoverflow.com/questions/42603033/uncaught-typeerror-cannot-set-property-textcontent-of-null)
+
 *[FreeCodeCamp](https://forum.freecodecamp.org/)
 
 >Getting the math down to create the first draft of the random password generator took some time to understand but eventually after fiddling with it for enough time, the function itself began to make a lot more sense as far as how property values are stored when not entered manually.
