@@ -12,8 +12,8 @@ Here is how to navigate it:
 
 Here is a sample of how the website will look:
 
-![Homepage](![2021-08-24](https://user-images.githubusercontent.com/87803018/130725017-018f053f-2ba2-4aca-8bc4-ce5fa66faa02.png))
-![Homepage](2021-08-24)
+![Repo](![2021-08-24](https://user-images.githubusercontent.com/87803018/130725017-018f053f-2ba2-4aca-8bc4-ce5fa66faa02.png))
+![WebPage](2021-08-24)
 
 ##Lessons learned from the assignment.
 ---
